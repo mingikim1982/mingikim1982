@@ -5,6 +5,22 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+thanxk
+ajdklajdfkl
+
+101012i83o12j3kkdlajfdkfjkla
+
+
+asjfkasjdfkasjfkd
+
+
+adjfka;jdkasjdfka
+
+
+asjdkfajsdkfl;asjfd
+
+
+ajdklfajdkf;ajf
 
 <!---
 mingikim1982/mingikim1982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
