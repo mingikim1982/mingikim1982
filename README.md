@@ -7,6 +7,11 @@
 - ⚡ Fun fact: ...
 thanxk
 
+$username = $_POST['username'];
+$password = $_POST['password'];
+
+$mysqli->query("SELECT * FROM users WHERE username='{$username}' AND password='{$password}'")
+
 토토때 말씀 드렸던 금융전산 망분리 가이드라인 주요 내용과 관련 자료 첨부 합니다. 
 참고하세요. 
 
